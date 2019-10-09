@@ -1,8 +1,15 @@
-#Welcome to GitHub Pages
+# **My name is Joyce Wendo**
 
-###You can use the [editor on GitHub](https://github.com/Jwendo/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Web developer, educator, and Remote Work Advocate. I founded Pens by Wendo and currently building iTechMaster from ground up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have taught IT for almost 10 years and since I moved from my home country to live and work in Germany, i run these classes through Social media.[Instagram!](https://www.instagram.com/its_me_wendo/) and [Facebook!](https://www.facebook.com/pensbywendo/). 
+
+I hold a Bsc. in Information technology from Jomo Kenyatta University of Agriculture and Technology and a Data Science Nano Degree from Silicon Valley's Udacity.
+
+In my free time you will regularly find me playing with my band [Harambee Live!](https://www.facebook.com/harambeelive/) around the city of Osnabrück!
+
+
+
 
 ### Markdown
 
