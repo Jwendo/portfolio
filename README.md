@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<h1>Welcome to GitHub Pages<h1>
 
 You can use the [editor on GitHub](https://github.com/Jwendo/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
